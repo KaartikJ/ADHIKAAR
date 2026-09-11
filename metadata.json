@@ -1,0 +1,6 @@
+{
+  "name": "ADHIKAR - Digital Land Records Modernization Portal",
+  "description": "Unified Land Record Digitization & Verification Gateway (DILRMP), Government of India",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
