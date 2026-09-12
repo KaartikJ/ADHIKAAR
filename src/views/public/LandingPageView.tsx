@@ -394,7 +394,7 @@ export const LandingPageView: React.FC<Props> = ({
         <div 
           className="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat sm:bg-[position:50%_35%] pointer-events-none opacity-90 -z-10"
           style={{ 
-            backgroundImage: `url(${OFFICIAL_ASSETS.remoteHeroBg})` 
+            backgroundImage: `url(${OFFICIAL_ASSETS.heroBg})` 
           }}
         />
 
